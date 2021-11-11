@@ -1,5 +1,6 @@
 👋 Hello My name is **d01c2**, newbie developer studying at **Korea University**!
 
+
 **💡 Current Interests**
 - Augmented-Reality
 - Problem Solving
@@ -13,6 +14,6 @@
 |🎓 Education|2021. 3 ~ |Department of Cyber Defense|Korea University|
 
 **🌀 Languages**
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
