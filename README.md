@@ -13,7 +13,7 @@
 |-|-|-|-|
 |🎓 Education|2021. 3 ~ |Department of Cyber Defense|Korea University|
 
-**🌀 Languages**
+**🌀 Languages**\n
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
