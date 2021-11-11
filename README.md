@@ -18,4 +18,4 @@
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ---
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ladolcevxta">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ladolcevxta">
