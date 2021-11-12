@@ -2,12 +2,11 @@
 
 👋 Hello My name is **d01c2**, newbie developer studying at **Korea University**!
 
-
 **💡 Current Interests**
 - Augmented-Reality
 - Problem Solving (Handle : ladolcevxta (Baekjoon), d01c2 (Codeforces, Leetcode))
 - Computer Vision
-- Web Development
+- Front-end Web Development
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
 **💻 Career**
