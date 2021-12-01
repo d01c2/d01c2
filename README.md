@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b5892&height=300&section=header&text=Espero%20que%20nos%20encontremos%20en%20la%20cima.&fontSize=40)
-
 👋 Hello My name is **d01c2**, newbie developer studying at **Korea University**!
 
 **💡 Current Interests**
