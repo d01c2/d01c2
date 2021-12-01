@@ -2,7 +2,7 @@
 
 **💡 Current Interests**
 - Augmented-Reality
-- Problem Solving (Handle : ladolcevxta (Baekjoon), d01c2 (Codeforces, Leetcode))
+- Problem Solving (Handle : ladolcevxta (Baekjoon))
 - Computer Vision & Graphics
 - Front-end Web Development
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
