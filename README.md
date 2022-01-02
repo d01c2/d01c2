@@ -1,7 +1,6 @@
 👋 Hi, there! My name is **d01c2**, newbie developer studying at **Korea University**!
 
 **💡 Current Interests**
-- Augmented-Reality
 - Problem Solving (Handle : ladolcevxta (Baekjoon))
 - Data-Driven Security
 - Web Dev & Hack
