@@ -2,8 +2,7 @@
 
 **💡 Current Interests**
 - Problem Solving (Handle : --- (Baekjoon))
-- Web Development
-- Interactive Coding
+- F.E. Web Development
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
 **💻 Career**
