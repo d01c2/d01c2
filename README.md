@@ -2,7 +2,7 @@
 
 **💡 Current Interests**
 - F.E. Web Development
-- Problem Solving (Handle : d01c2 (Baekjoon))
+- Problem Solving (Handle : d01c2 (BOJ))
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
 **💻 Career**
