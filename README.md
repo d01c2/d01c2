@@ -11,4 +11,4 @@
 |🎓 Education|2021. 3 ~ |Department of Cyber Defense|Korea University|
 
 ---
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ladolcevxta">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=d01c2">
