@@ -3,7 +3,7 @@
 **💡 Current Interests**
 - F.E. Web Development
 - Problem Solving
-- Web Hacking
+- Hacking
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
 **💻 Career**
