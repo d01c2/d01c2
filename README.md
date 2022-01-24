@@ -3,7 +3,8 @@
 **💡 Current Interests**
 - Hacking
 - Problem Solving
-- Web Development (Now Focusing on Front-end)
+- Web Development
+- Software Synthesis
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
 **💻 Career**
