@@ -10,8 +10,4 @@
 |**Type**|**Date**|**Contents**|**Organization**|
 |-|-|-|-|
 |🎓 Education|2021. 3 ~ |Department of Cyber Defense|Korea University|
-
-<!--
----
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=d01c2">
---->
+|🎓 Education|2022. 1 ~ |Research Intern|Korea Univ. Software Analysis Lab|
