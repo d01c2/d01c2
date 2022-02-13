@@ -2,7 +2,7 @@
 
 **💡 Current Interests**
 - Problem Solving
-- Functional Programming
+- NLP
 - Software Synthesis
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
@@ -11,3 +11,9 @@
 |-|-|-|-|
 |🎓 Education|2021. 3 ~ |Department of Cyber Defense|Korea University|
 |👯 Career|2022. 1 ~ |Research Intern|Korea Univ. Software Analysis Lab|
+
+**📘 Skills**
+<br>
+Languages: Python, C++
+<br>
+Human Languages: English - Intermediate, Korean - Native
