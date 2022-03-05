@@ -10,7 +10,6 @@
 |**Type**|**Date**|**Contents**|**Organization**|
 |-|-|-|-|
 |🎓 Education|2021. 3 ~ 2025. 2|Department of Cyber Defense|Korea University|
-|👯 Project|2022. 1 ~ |Website Front-End Dev.|Korea Univ. Club Association|
 |👯 Career|2022. 1 ~ |Research Intern|Korea Univ. Software Analysis Lab|
 
 **📘 Skills**
