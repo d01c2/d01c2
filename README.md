@@ -9,7 +9,7 @@
 **💻 Career**
 |**Type**|**Date**|**Contents**|**Organization**|
 |-|-|-|-|
-|🎓 Education|2021. 3 ~ 2025. 2|Department of Cyber Defense|Korea University|
+|🎓 Education|2021. 3 ~ |Department of Cyber Defense|Korea University|
 |👯 Career|2022. 1 ~ |Research Intern|Korea Univ. Software Analysis Lab|
 
 **📘 Skills**
