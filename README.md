@@ -15,6 +15,6 @@
 
 **📘 Skills**
 <br>
-Languages: C/C++, Python, HTML/CSS, JavaScript, Dart
+Languages: C/C++, Python, HTML5/CSS3, JavaScript, Dart
 <br>
 Human Languages: English - Intermediate, Korean - Native
