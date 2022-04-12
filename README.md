@@ -61,7 +61,9 @@
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 #### Human Languages:
-**English** - Limited working proficiency, **Korean** - Native, **Japanese** - Elementary proficiency
+**English** - Limited working proficiency <br>
+**Korean** - Native <br>
+**Japanese** - Elementary proficiency <br>
 
 <!--Links-->
 [medium]: https://d01c2.medium.com/
