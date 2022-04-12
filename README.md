@@ -11,10 +11,10 @@
 |**Type**|**Date**|**Contents**|**Organization**|
 |-|-|-|-|
 |🎓 Education|2021. 3 ~ |Department of Cyber Defense|Korea University|
-|👯 Career|2022. 1 ~ |Research Intern|Korea Univ. Software Analysis Lab|
+|👯 Career|2022. 1 ~ 2022. 4|Research Intern|Korea Univ. Software Analysis Lab|
 
 **📘 Skills**
 <br>
-Languages: C/C++, Python, HTML5/CSS3, JavaScript, Dart
+Languages: C/C++, Python, HTML5/CSS3, JavaScript, OCaml, Dart 
 <br>
 Human Languages: English - Intermediate, Korean - Native
