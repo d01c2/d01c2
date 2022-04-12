@@ -2,9 +2,9 @@
 My name is **d01c2**, newbie developer studying at **Korea University**!
 
 
+[<img align="left" alt="d01c2 | Medium" width="22px" src="./medium.svg" />][medium]
 [<img align="left" alt="d01c2 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="d01c2 | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="d01c2 | Medium" width="22px" src="./medium.svg" />][medium]
 
 <br>
 <br>
@@ -63,6 +63,6 @@ My name is **d01c2**, newbie developer studying at **Korea University**!
 English - Intermediate, Korean - Native
 
 <!--Links-->
+[medium]: https://d01c2.medium.com/
 [linkedin]: https://www.linkedin.com/in/d01c2/
 [gmail]: mailto:rickykhj@korea.ac.kr
-[medium]: https://d01c2.medium.com/
