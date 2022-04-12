@@ -1,20 +1,68 @@
-👋 Hi, there! My name is **d01c2**, newbie developer studying at **Korea University**!
+# Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+My name is **d01c2**, newbie developer studying at **Korea University**!
 
-**💡 Current Interests**
+
+[<img align="left" alt="d01c2 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="d01c2 | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="d01c2 | Medium" width="22px" src="./medium.svg" />][medium]
+
+<br>
+<br>
+
+[![Solved.ac.profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=d01c2)](https://github.com/mazassumnida/mazassumnida)
+
+### GitHub Stats
+
+![d01c2's github stats](https://github-readme-stats.vercel.app/api?username=d01c2&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d01c2&theme=great-gatsby&layout=compact)
+
+
+### 💡 Current Interests
 - Web/App Development
 - Problem Solving
 - Topics of Machine Learning
 - Natural Program Synthesis
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
-**💻 Career**
+### 💻 Career
 |**Type**|**Date**|**Contents**|**Organization**|
 |-|-|-|-|
 |🎓 Education|2021. 3 ~ 2025. 2|Department of Cyber Defense|Korea University|
 |👯 Career|2022. 1 ~ 2022. 4|Research Intern|Korea Univ. Software Analysis Lab|
 
-**📘 Skills**
-<br>
-Languages: C/C++, Python, HTML5/CSS3, JavaScript, OCaml, Dart 
-<br>
-Human Languages: English - Intermediate, Korean - Native
+### 📘 Tech Stack
+
+#### Languages:
+![CPlusPlus](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EDD222?style=flat&logo=JavaScript&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+#### Application and Data:
+![ReactJS](https://img.shields.io/badge/ReactJS-51CBF2?style=flat&logo=react&logoColor=white&)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown&logoColor=white)
+
+#### Utilities:
+
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+#### DevOps:
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+
+#### Business:
+
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
+   
+
+English - Intermediate, Korean - Native
+
+<!--Links-->
+[linkedin]: https://www.linkedin.com/in/d01c2/
+[gmail]: mailto:rickykhj@korea.ac.kr
+[medium]: https://d01c2.medium.com/
