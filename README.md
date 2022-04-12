@@ -1,10 +1,10 @@
 👋 Hi, there! My name is **d01c2**, newbie developer studying at **Korea University**!
 
 **💡 Current Interests**
-- NLP
-- Software Synthesis
 - Web/App Development
 - Problem Solving
+- Topics of Machine Learning
+- Natural Program Synthesis
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
 **💻 Career**
