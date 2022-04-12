@@ -1,5 +1,6 @@
-# Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My name is **d01c2**, newbie developer studying at **Korea University**!
+# Hi, I'm Hyun Joon Kim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### **I'm a junior Web/App developer studying at Korea University!**
 
 
 [<img align="left" alt="d01c2 | Medium" width="22px" src="./medium.svg" />][medium]
@@ -58,9 +59,9 @@ My name is **d01c2**, newbie developer studying at **Korea University**!
 
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
-   
 
-English - Intermediate, Korean - Native
+#### Human Languages:
+**English** - Limited working proficiency, **Korean** - Native, **Japanese** - Elementary proficiency
 
 <!--Links-->
 [medium]: https://d01c2.medium.com/
