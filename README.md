@@ -9,7 +9,7 @@ My name is **d01c2**, newbie developer studying at **Korea University**!
 <br>
 <br>
 
-[![Solved.ac.profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=d01c2)](https://github.com/mazassumnida/mazassumnida)
+[![Solved.ac.profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ladolcevxta)](https://github.com/mazassumnida/mazassumnida)
 
 ### GitHub Stats
 
