@@ -1,6 +1,6 @@
 # Hi, I'm Hyun Joon Kim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### **I'm a junior Web/App developer studying at Korea University!**
+### **I'm a junior developer studying at Korea University!**
 
 
 [<img align="left" alt="d01c2 | Medium" width="22px" src="./medium.svg" />][medium]
