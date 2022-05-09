@@ -29,7 +29,7 @@
 |**Type**|**Date**|**Contents**|**Organization**|
 |-|-|-|-|
 |🎓 Education|2021. 3 ~ 2025. 2|Department of Cyber Defense|Korea University|
-|👯 Career|2022. 1 ~ 2022. 4|Research Intern|Korea Univ. Software Analysis Lab|
+|👯 Career|2022. 1 ~ 2022. 4|Research Intern : Studied PL theory|Korea Univ. Software Analysis Lab|
 
 ### 📘 Tech Stack
 
