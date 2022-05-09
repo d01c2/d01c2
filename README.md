@@ -22,7 +22,6 @@
 - Web/App Development
 - Problem Solving
 - Topics of Machine Learning
-- Natural Program Synthesis
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
 ### 💻 Career
