@@ -45,7 +45,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown&logoColor=white)
 
 #### Utilities:
-
+![CLion](https://img.shields.io/badge/CLion-143?style=flat&logo=CLion&logoColor=black&color=black&labelColor=D23C83)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=PyCharm&logoColor=black&color=black&labelColor=1FCC86)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 #### DevOps:
