@@ -10,8 +10,6 @@
 <br>
 <br>
 
-[![Solved.ac.profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ladolcevxta)](https://github.com/mazassumnida/mazassumnida)
-
 ### GitHub Stats
 
 ![d01c2's github stats](https://github-readme-stats.vercel.app/api?username=d01c2&show_icons=true&theme=great-gatsby)
