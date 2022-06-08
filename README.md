@@ -17,6 +17,7 @@
 
 
 ### 💡 Current Interests
+- Web/App Dev.
 - Problem Solving
 - Topics of Machine Learning
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
@@ -25,21 +26,25 @@
 |**Type**|**Date**|**Contents**|**Organization**|
 |-|-|-|-|
 |🎓 Education|2021. 3 ~ 2025. 2|Department of Cyber Defense|Korea University|
-|👯 Career|2022. 1 ~ 2022. 4|Research Intern : Studied PL theory|Korea Univ. Software Analysis Lab|
 
 ### 📘 Tech Stack
 
 #### Languages:
+|[C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![CPlusPlus](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-EDD222?style=flat&logo=JavaScript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EDD222?style=flat&logo=JavaScript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 #### Application and Data:
-![ReactJS](https://img.shields.io/badge/ReactJS-51CBF2?style=flat&logo=react&logoColor=white&)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![React](https://img.shields.io/badge/ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
+|[jQuery](https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white)
+|[Node.JS](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)
+|[MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
+|[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown&logoColor=white)
 
 #### Utilities:
