@@ -17,7 +17,7 @@
 
 
 ### 💡 Current Interests
-- Web/App Dev.
+- Web Dev.
 - Problem Solving
 - Topics of Machine Learning
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
