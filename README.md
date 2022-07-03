@@ -17,9 +17,9 @@
 
 
 ### 💡 Current Interests
-- Web Dev.
+- Web Develop & Security
 - Problem Solving
-- Topics of Machine Learning
+- Thinking
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
 ### 💻 Career
