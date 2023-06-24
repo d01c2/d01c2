@@ -2,7 +2,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd01c2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/></a>
 
-I am an undergraduate student at Dept. of Cyber Defense, Korea University.<br>Currently, I am a member of [Programming Language Research Group (PLRG)](https://plrg.korea.ac.kr/) in Korea University advised by [Jiheok Park](https://plrg.korea.ac.kr/members/jihyeok.park).
+I am an undergraduate student at Dept. of Cyber Defense, Korea University.<br>Currently, I am a member of [Programming Language Research Group (PLRG)](https://plrg.korea.ac.kr/) in Korea University advised by [Jihyeok Park](https://plrg.korea.ac.kr/members/jihyeok.park).
 
 ## :headphones: Research Interests
 
