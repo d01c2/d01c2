@@ -6,11 +6,20 @@
   <a href="https://www.scala-lang.org/">
     <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white">
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white">
+  <a href="https://ocaml.org/">
+    <img src="https://img.shields.io/badge/OCaml-E5670C?logo=ocaml&logoColor=white">
+  </a>
+  <a href="https://en.cppreference.com/w/">
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
   </a>
   <a href="https://www.rust-lang.org/">
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white">
+  </a>
+  <a href="https://tc39.es/ecma262/">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
   </a>
   <a href="https://www.latex-project.org/">
     <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white">
