@@ -33,7 +33,7 @@ I am an undergraduate student at Dept. of Cyber Defense, Korea University.<br>Cu
 My research interests are program synthesis and static analysis based on programming language theory.<br>In particular,
 
 - **Program Synthesis** for lessening the burden of sw development by automatically generating programs
-- **Static Analysis** for automatically detecting software bugs and vulnerabilies
+- **Static Analysis** for automatically detecting software bugs and vulnerabilities
 
 <!--
 **d01c2/d01c2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
