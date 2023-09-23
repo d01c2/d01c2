@@ -6,9 +6,6 @@
   <a href="https://www.scala-lang.org/">
     <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white">
   </a>
-  <a href="https://ocaml.org/">
-    <img src="https://img.shields.io/badge/OCaml-E5670C?logo=ocaml&logoColor=white">
-  </a>
   <a href="https://en.cppreference.com/w/">
     <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
   </a>
