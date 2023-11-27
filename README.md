@@ -13,7 +13,7 @@ I am an undergraduate student at Dept. of Cyber Defense, Korea University.<br>Cu
 My research interests are static analysis and compiler optimization based on programming language theory.<br>In particular,
 
 - **Static Analysis** for automatically detecting software bugs and vulnerabilities
-- **Compiler Optimization** for enhancing program performance and efficiency, focusing on language-level improvements and optimizations
+- **Compiler Optimization** for enhancing program performance and efficiency, focusing on language-level improvements
 
 <!--
 **d01c2/d01c2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
