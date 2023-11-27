@@ -4,21 +4,16 @@
 
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?logo=javascript&logoColor=23f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+
 
 I am an undergraduate student at Dept. of Cyber Defense, Korea University.<br>Currently, I am a member of [Programming Language Research Group (PLRG)](https://plrg.korea.ac.kr/) in Korea University advised by [Jihyeok Park](https://plrg.korea.ac.kr/members/jihyeok.park).
 
 ## :headphones: Research Interests
 
-My research interests are program synthesis and static analysis based on programming language theory.<br>In particular,
+My research interests are static analysis and compiler optimization based on programming language theory.<br>In particular,
 
-- **Program Synthesis** for lessening the burden of sw development by automatically generating programs
 - **Static Analysis** for automatically detecting software bugs and vulnerabilities
+- **Compiler Optimization** for enhancing program performance and efficiency, focusing on language-level improvements and optimizations
 
 <!--
 **d01c2/d01c2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
