@@ -17,4 +17,4 @@ My research interests are **program synthesis** and **program analysis** based o
 - **Program Synthesis**: Reducing the burden of software development by automatically generating programs
 - **Program Analysis**: Automatically detecting software bugs and vulnerabilities using both static and dynamic methods
 
-Outside of research, I enjoy exploring **WASM/WASI** and trying out various tools in the **JavaScript ecosystem**. I also spend time analyzing open-source projects and crafting tools from scratch. Beyond programming, I enjoy coffee, whisk(e)y, and movies—a mix of interests that keeps life balanced.
+Outside of research, I enjoy trying out various tools in the **JavaScript ecosystem**. I also spend time analyzing open-source projects and crafting tools from scratch. Beyond programming, I enjoy coffee, whisk(e)y, and movies—a mix of interests that keeps life balanced.
